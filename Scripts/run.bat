@@ -1,0 +1,1 @@
+test.exe -t "Hola esto es un parametro de entrada"
